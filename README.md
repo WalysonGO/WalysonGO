@@ -6,12 +6,8 @@
 
 </br>
 </br>
-</br>
-</br>
-<div align="left">
-<img align="left"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&theme=synthwave&layout=compact&locale=pt-BR" alt="WalysonGO" /><br><br>
-<img align="left"
-src="https://github-readme-stats.vercel.app/api?username=walysongo&show_icons=true&theme=synthwave&locale=pt-BR" alt="WalysonGO" />
+<div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&theme=synthwave&layout=compact&locale=pt-BR" alt="WalysonGO" /><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=walysongo&show_icons=true&theme=synthwave&locale=pt-BR" alt="WalysonGO" />
 </div>
 
