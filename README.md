@@ -1,8 +1,3 @@
-<div align="center">
-  <link href="https://github.com/WalysonGO/"><img src="https://i.ibb.co/QnzhfF3/header-banner-optimized.jpg" alt="header-banner-optimized" width="720"/></a>
-</div>
-</br>
-</br>
 <h3 align="left">Olá 👋, seja bem vindo! </h3>
 <h4 align="left">Desenvolvimento de sistemas é uma de minhas paixões, amo codificar e criar soluções para diversos problemas. Busco o aperfeiçoamento constantemente, desenvolvendo cada vez mais códigos reutilizáveis e limpos.</h4>
 </br>
