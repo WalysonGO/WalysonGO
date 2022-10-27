@@ -5,7 +5,7 @@
 
 <h3>SKILLS:</h3>
 <div align="left">
-<img aling="left" src="https://skillicons.dev/icons?i=html,bootstrap,materialui,css,sass,styledcomponents,ps,figma,js,ts,nodejs,express,react,vuejs,nuxtjs,electron,docker,mongo,mysql,postgres,php,wordpress,laravel,java,supabase,firebase,git,bash,python,flask,heroku,vercel,linux,nginx,aws,cloudflare,grafana,bots,tensorflow," alt="skills" /><br>
+<img aling="left" src="https://skillicons.dev/icons?i=html,bootstrap,materialui,css,sass,styledcomponents,ps,figma,js,ts,nodejs,express,react,redux,vuejs,nuxtjs,electron,docker,mongo,mysql,postgres,php,wordpress,laravel,java,supabase,firebase,git,bash,python,flask,heroku,vercel,linux,nginx,aws,cloudflare,grafana,bots,tensorflow," alt="skills" /><br>
 </div>
 <hr>
 </br>
