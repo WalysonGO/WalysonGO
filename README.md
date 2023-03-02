@@ -5,7 +5,7 @@
 
 <h3>SKILLS:</h3>
 <div align="left">
-<img aling="left" src="https://skillicons.dev/icons?i=html,bootstrap,materialui,css,sass,styledcomponents,ps,figma,js,ts,nodejs,express,nestjs,prisma,react,redux,vuejs,nextjs,nuxtjs,electron,docker,mongo,mysql,postgres,php,rails,wordpress,laravel,java,supabase,firebase,git,github,githubactions,bash,regex,python,flask,heroku,vercel,netlify,linux,nginx,aws,cloudflare,grafana,bots,tensorflow," alt="skills" /><br>
+<img aling="left" src="https://skillicons.dev/icons?i=html,bootstrap,materialui,css,sass,styledcomponents,ps,figma,js,ts,nodejs,express,nestjs,prisma,react,redux,vuejs,nextjs,nuxtjs,electron,docker,mongo,mysql,postgres,php,rails,wordpress,laravel,java,supabase,firebase,git,jest,github,githubactions,bash,regex,python,flask,heroku,vercel,netlify,linux,nginx,aws,cloudflare,grafana,bots,tensorflow," alt="skills" /><br>
 </div>
 <hr>
 <h3>STUDYING:</h3>
