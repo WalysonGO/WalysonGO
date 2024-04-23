@@ -1,5 +1,5 @@
 <h3 align="left">Olá 👋, seja bem vindo! </h3>
-<h4 align="left">Desenvolvimento de sistemas é uma de minhas paixões, amo codificar e criar soluções para diversos problemas. Busco o aperfeiçoamento constantemente, desenvolvendo cada vez mais códigos reutilizáveis e limpos.</h4>
+<h4 align="left">Sou apaixonado pelo desenvolvimento de sistemas e adoro criar soluções para diferentes problemas através da codificação. Estou sempre em busca de aperfeiçoamento, desenvolvendo códigos reutilizáveis e limpos.</h4>
 </br>
 </br>
 
@@ -13,13 +13,4 @@
 <img aling="left" src="https://skillicons.dev/icons?i=go," alt="skills" /><br>
 </div>
 <hr>
-</br>
-</br>
-
-<h3>STATS:</h3>
-<div align="left">
-<img src="https://github-profile-trophy.vercel.app/?username=walysongo&theme=dracula&rank=S,S,AAA,A,SECRET" alt="WalysonGO" /><br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&theme=synthwave&layout=compact&locale=pt-BR" alt="WalysonGO" /><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=walysongo&show_icons=true&theme=synthwave&locale=pt-BR" alt="WalysonGO" />
-</div>
 
