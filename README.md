@@ -1,16 +1,4 @@
-<h3 align="left">Olá 👋, seja bem vindo! </h3>
-<h4 align="left">Sou apaixonado pelo desenvolvimento de sistemas e adoro criar soluções para diferentes problemas através da codificação. Estou sempre em busca de aperfeiçoamento, desenvolvendo códigos reutilizáveis e limpos.</h4>
-</br>
-</br>
+<img src="https://camo.githubusercontent.com/30b0ab11dd107a65e417196900265c672ae05ffb15dbdda6373b3e10bece71cf/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e67267468656d653d6461726b266865696768743d3132302673656374696f6e3d686561646572" />
+<div align="center"> <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=5A3DF7&center=true&vCenter=true&random=false&width=620&height=75&lines=Olá!! 👋 Me chamo Walyson Galdino.;Muitos me chamam de Walyson GO.;Eu tenho 25 anos.;Sou desenvolvedor Full-stack a mais de 7 anos." alt="Typing SVG" /></a> </div> </br> <h3>SKILLS:</h3> <div align="left"> <img aling="left" src="https://skillicons.dev/icons?i=html,bootstrap,materialui,css,sass,styledcomponents,ps,figma,js,ts,nodejs,express,nestjs,prisma,react,redux,vuejs,nextjs,nuxtjs,electron,docker,mongo,mysql,postgres,php,rails,wordpress,laravel,java,supabase,firebase,git,jest,github,githubactions,bash,regex,python,flask,heroku,vercel,netlify,linux,nginx,aws,cloudflare,grafana,bots,tensorflow,kafka" alt="skills" /><br> </div> <hr> <h3>STUDYING:</h3> <div align="left"> <img aling="left" src="https://skillicons.dev/icons?i=go," alt="skills" /><br> </div> <hr>
 
-<h3>SKILLS:</h3>
-<div align="left">
-<img aling="left" src="https://skillicons.dev/icons?i=html,bootstrap,materialui,css,sass,styledcomponents,ps,figma,js,ts,nodejs,express,nestjs,prisma,react,redux,vuejs,nextjs,nuxtjs,electron,docker,mongo,mysql,postgres,php,rails,wordpress,laravel,java,supabase,firebase,git,jest,github,githubactions,bash,regex,python,flask,heroku,vercel,netlify,linux,nginx,aws,cloudflare,grafana,bots,tensorflow," alt="skills" /><br>
-</div>
-<hr>
-<h3>STUDYING:</h3>
-<div align="left">
-<img aling="left" src="https://skillicons.dev/icons?i=go," alt="skills" /><br>
-</div>
-<hr>
-
+<img src="https://camo.githubusercontent.com/41fe513d55060286ffc7a3f5706940f5387f770dc893007b619b3c5de3bf76b6/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e67267468656d653d6461726b266865696768743d3132302673656374696f6e3d666f6f746572" />
