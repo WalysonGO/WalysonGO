@@ -3,6 +3,7 @@
 <hr>
 <h3>PROJECTS:</h3>
 <p>Eu desenvolvi um pacote para CLI chamado XSQW que é um gerenciador de pacotes que visa simplificar a instalação e o gerenciamento de dependências em seus projetos Node.js. Com o XSQW, você pode instalar pacotes em um único diretório e reutilizá-los em diferentes projetos, tornando o desenvolvimento mais eficiente. E vale lembra que o XSQW funciona tanto para JAVASCRIPT e tanto para TYPESCRIPT, meio que um substituto do YARN, NODEMON e do NPM. Ele está em versão BETA, baixem, usem e dexem feedbacks, no link abaixo:</p>
+Feedbacks: <a href="https://www.tabnews.com.br/walysongo/substitua-o-yarn-e-npm-pelo-xsqw-saiba-mais">Deixe seu Feedback aqui.</a>
 Pacote XSQW: <a href="https://www.npmjs.com/package/xsqw">ver pacote aqui.</a>
 <hr>
 <h3>VISITED:</h3>
